@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Welcome to CityFramers!"
-date:   2019-10-30 03:38:02 +0000
-categories: CityFramers update
+title:  "CityFramers! 水耕農場在 Teresa 的家"
+date:   2019-10-31 11:14:00 +0800
+categories: CityFramers image
 ---
 
 CityFramers 是在城市水耕的人們
 
 Teresa (陳小姐) 的水耕農場。
+
+
+
