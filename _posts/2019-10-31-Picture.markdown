@@ -11,3 +11,4 @@ Teresa (陳小姐) 的水耕農場。
 
 ![Imgur](https://i.imgur.com/efV3aKP.jpg)
 
+{% include image.html url="https://i.imgur.com/efV3aKP.jpg" description="Teresa (陳小姐) 的水耕農場" %}
