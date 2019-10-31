@@ -2,7 +2,7 @@
 layout: post
 title:  "CityFramers! 水耕農場在 Teresa 的家"
 date:   2019-10-31 11:14:00 +0800
-categories: CityFramers image
+categories: CityFramers update
 ---
 
 CityFramers 是在城市水耕的人們
