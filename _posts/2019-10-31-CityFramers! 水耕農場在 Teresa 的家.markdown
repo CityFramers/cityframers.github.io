@@ -9,6 +9,4 @@ CityFramers 是在城市水耕的人們
 
 Teresa (陳小姐) 的水耕農場。
 
-![Imgur](https://i.imgur.com/efV3aKP.jpg)
-
-{% include image.html url="https://i.imgur.com/efV3aKP.jpg" description="Teresa (陳小姐) 的水耕農場" %}
+{% include image.html url="https://i.imgur.com/efV3aKP.jpg" description="Teresa (陳小姐) 的水耕農場 - 直立架" %}
